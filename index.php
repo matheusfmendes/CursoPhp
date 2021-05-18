@@ -76,6 +76,16 @@
                                 Tipo String
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=Tipos&file=desafio_string">
+                                Desafio String
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=Tipos&file=booleano">
+                                Tipo booleano
+                            </a>
+                        </li>
                     </ul>
                 </div>
 
